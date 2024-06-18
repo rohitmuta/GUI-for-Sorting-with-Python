@@ -1,5 +1,5 @@
 # GUI-for-Sorting-with-Python
-A GUI which displays the efficiency of different sorting method in Python language
+A GUI which displays the efficiency of different sorting method in Python language using Tkinter
 
 Sorting Algorithm Visualizer
 This is a Python GUI application for visualizing sorting algorithms using the tkinter and matplotlib libraries. The application allows users to choose from several sorting algorithms, including Bubble Sort, Insertion Sort, Selection Sort, Mergesort, Quicksort, Median of 3 - Quicksort, and Heapsort. The user can input the size of the array to be sorted and click the "Sort" button to see the sorted array and the runtime of the selected algorithm.
