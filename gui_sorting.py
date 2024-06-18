@@ -1,5 +1,3 @@
-''' Code by Rohit M  ID: 1002091557'''
-
 import tkinter as tk
 from tkinter import ttk
 import random
